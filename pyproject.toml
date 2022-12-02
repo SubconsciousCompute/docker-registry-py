@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "docker-registry-py"
-version = "0.1.2"
+version = "0.1.3"
 description = "A simple python program for managing container registry in private"
 authors = ["selva <selva.g@subcom.tech>"]
 readme = "README.md"
